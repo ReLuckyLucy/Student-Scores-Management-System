@@ -15,7 +15,7 @@
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/hibioru/Student-Scores-Management-System/total">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/hibioru/Student-Scores-Management-System?style=social">
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReLuckyLucy&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## :book: 概述
